@@ -34,9 +34,15 @@ input{
 div.control-form{
     margin-bottom: 15px;
 }
+.button-form:hover{
+   background-color: #0022AA;
+   color: black;
+   border: none;
+
+}
 .button-form{
-    background-color: blue ;
-    border: none;
+    background-color: gray ;
+    border: 2px solid black;
     font-size: 20px ;
     color: #fff;
     padding: 5px 10px;
